@@ -1,0 +1,21 @@
+﻿# Python & Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# MetaTrader 5 & MQL5 compiled files and logs
+*.ex5
+*.ex4
+*.log
+Tester/
+reports/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
